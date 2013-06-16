@@ -1,0 +1,12 @@
+body {
+  font: 14px/1.6 'Helvetica Neue', 'Lucida Grande', 'Segoe UI', sans-serif;
+  font-weight: 200;
+  color: #333;
+}
+
+#app {
+  position: relative;
+  height: 600px;
+  margin: 40px auto;
+  max-width: 980px;
+}

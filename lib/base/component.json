@@ -1,0 +1,8 @@
+{
+  "name": "base",
+  "description": "base",
+  "styles": ["base.css"],
+  "dependencies": {
+    "ianstormtaylor/reset": "*"
+  }
+}

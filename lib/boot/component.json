@@ -1,0 +1,13 @@
+{
+  "name": "boot",
+  "description": "boot",
+  "main": "index.js",
+  "scripts": ["index.js"],
+  "dependencies": {
+    "visionmedia/page.js": "*"
+  },
+  "local": [
+    "sidebar",
+    "base"
+  ]
+}

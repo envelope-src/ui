@@ -1,0 +1,9 @@
+{
+  "name": "envelope",
+  "version": "0.0.1",
+  "devDependencies": {
+    "css-whitespace": "*",
+    "rework": "*",
+    "express": "*"
+  }
+}

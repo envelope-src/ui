@@ -1,0 +1,17 @@
+#sidebar {
+  width: 50px;
+  border-right: 1px solid #ddd;
+  position: absolute;
+  top: 30px;
+  bottom: 30px;
+}
+
+#sidebar li,
+#sidebar a {
+  display: block;
+}
+
+#sidebar a {
+  margin: 10px 0;
+  color: #333;
+}

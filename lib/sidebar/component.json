@@ -1,0 +1,11 @@
+{
+  "name": "sidebar",
+  "description": "sidebar",
+  "main": "index.js",
+  "scripts": ["index.js", "template.js"],
+  "styles": ["sidebar.css"],
+  "dependencies": {
+    "component/view": "*",
+    "component/domify": "*"
+  }
+}
